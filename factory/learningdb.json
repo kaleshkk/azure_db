@@ -1,0 +1,9 @@
+{
+	"name": "learningdb",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "018f30a2-4502-4299-a645-9830e98a46be",
+		"tenantId": "49046391-b7a0-4e77-8ecd-7f9c2f3e6032"
+	}
+}
