@@ -11,7 +11,7 @@
 			"location": {
 				"type": "AzureBlobFSLocation",
 				"folderPath": "target",
-				"fileSystem": "testlake"
+				"fileSystem": "dlakes"
 			},
 			"compressionCodec": "snappy"
 		},
