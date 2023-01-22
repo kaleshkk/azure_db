@@ -1,0 +1,9 @@
+{
+	"name": "learningdf12",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "933c7b55-a0fa-437a-84f2-8ea8f089171e",
+		"tenantId": "49046391-b7a0-4e77-8ecd-7f9c2f3e6032"
+	}
+}
