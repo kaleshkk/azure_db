@@ -12,7 +12,7 @@
 				"type": "AzureBlobFSLocation",
 				"fileName": "annual-enterprise-survey-2021-financial-year-provisional-csv.csv",
 				"folderPath": "source",
-				"fileSystem": "testlake"
+				"fileSystem": "dlakes"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
